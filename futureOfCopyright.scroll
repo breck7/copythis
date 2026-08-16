@@ -1,0 +1,133 @@
+header.scroll
+// hedcut hedcuts/rasmusFleischer.png
+title The Future of Copyright
+authors Rasmus Fleischer
+ https://linktr.ee/rasmusfleischer
+original https://www.cato-unbound.org/2008/06/09/rasmus-fleischer/future-copyright
+date 06/09/2008
+
+How relevant is it to declare oneself to be “for” or “against” copyright? Neither the stabilization nor the abolition of the copyright system seems within reach. All we see is a seemingly endless assembly line of new extensions to the law being proposed and enacted. The most recent is the proposed “Anti-Counterfeiting Trade Agreement” (ACTA) [1], to be tabled at next month’s G8 meeting in Tokyo, including a clause known as the “Pirate Bay killer” that would force countries to criminalize services that may facilitate copyright infringement, even if not for profit. This is just one example of how copyright law is mutating into something qualitatively different than what it has been in previous centuries.
+
+endSnippet
+
+A very condensed version of copyright history could look like this: texts (1800), works (1900), tools (2000). Originally the law was designed to regulate the use of one machine only: the printing press. It concerned the reproduction of texts, printed matter, without interfering with their subsequent uses. Roughly around 1900, however, copyright law was drastically extended to cover works, independent of any specific medium. This opened up the field for collective rights management organizations, which since have been setting fixed prices on performance and broadcasting licenses. Under their direction, very specific copyright customs developed for each new medium: cinema, gramophone, radio, and so forth. This differentiation was undermined by the emergence of the Internet, and since about the year 2000 copyright law has been pushed in a new direction, regulating access to tools in a way much more arbitrary than anyone in the pre-digital age could have imagined.
+
+This change has taken place because previously distinct media are now simulated within the singular medium of the Internet, and copyright law simply seems unable to cope with it. Consider radio broadcasting and record shops, which once were inherently different. Their online counterparts are known respectively as “streaming” and “downloading,” but the distinction is ultimately artificial, since the same data transfer takes place in each. The only essential difference lies in how the software is configured at the receiving end. If the software saves the music as a file for later use, it’s called a “download.” If the software immediately sends the music to the loudspeakers, it’s called “streaming.”
+
+However, the receiver can always choose to transform a stream to a digital file. It’s simple, legal, and not very different from home taping. What now fills the record industry with fear is the possibility that users could “automatically identify and separate individual tracks from digital transmissions and store them for future playback in any order.”[2] In other words, they fear that the distinction between streaming and downloading will be exposed as a big fake.
+
+For example, Swedish company Chilirec provides a rapidly growing free online service assisting users in ripping digital audio streams.[3] After choosing among hundreds of radio stations, you will soon have access to thousands of MP3 files in an online depository, neatly sorted and correctly tagged, available for download. The interface and functionality could be easily confused with a peer-to-peer application like Limewire. You connect, you get MP3s for free, and no one pays a penny to any rights holder. But it is fully legal, as all Chilirec does is automate a process that anyone could do manually.
+
+Cutting a recorded radio stream into individual tracks and entering each correct song title is easy, but takes lots of time. The open source community is continuously coming up with free tools for simplifying it, such as a program called The Last Ripper that can turn the on-demand streaming service Last.fm into a library of MP3 files.
+
+Record industry lobbyists smell the danger, and now they are urging governments to criminalize such practices. On their orders the so-called PERFORM Act (“Platform Equality and Remedies for Rights Holders in Music Act”) was introduced in the U.S. Senate last year. [4] The proposed law would force every Internet radio station to encrypt the transmission of file information, such as the name of the song. Yet anything visible on the screen can still be easily obtained by special software, encryption notwithstanding, and such restrictions would therefore be ridiculously easy to circumvent. Thus the PERFORM Act includes a follow-up clause banning the distribution of this class of software.
+
+People with some programming skills, however, won’t need to do much more than combining a few readily available and otherwise perfectly legal code libraries to compile their own streamripping tool, one that would circumvent the PERFORM Act. For regulations like these to be effective, it is necessary also to censor the sharing of skills that potentially can be useful for coding illegal software. The circle of prohibition grows still larger: Acoustic fingerprinting technologies, which have nothing copyright-infringing to them, but which can be used for the same feared identification of individual tracks, must probably also be restricted.
+
+This domino effect captures the essence of copyright maximalism: Every broken regulation brings a cry for at least one new regulation even more sweepingly worded than the last. Copyright law in the 21st century tends to be less concerned about concrete cases of infringement, and more about criminalizing entire technologies because of their potential uses. This development undermines the freedom of choice that Creative Commons licenses are meant to realize. It will also have seriously chilling effects on innovation, as the legal status of new technologies will always be uncertain under ever more invasive rules.
+
+Anti-piracy agencies are today fiercely attacking different kinds of search engines, solely because they provide links to files which may be copyrighted. This includes the bizarre case against Swedish BitTorrent tracker The Pirate Bay, as well as recent lawsuits against Yahoo! China and Baidu. Only Google remains largely uncontested, although they operate in the same gray zone of copyright. For example, the business model of Google Books is to display millions of pages of copyrighted and uncopyrighted books as part of a business plan drawing its revenue from advertising.
+
+Gray zones like these are omnipresent in 21st century copyright law. One reason for this development is the uncertain status of the very idea of “copying” today. Contrast today’s world with the golden age of copyright, roughly speaking between 1800 and 1950. Back then, enforcement was easy. The act of reading a book was far removed from the act of printing one. Record presses and gramophones were safely distinct machines. Since then, things have changed.
+
+When American troops liberated the city of Luxembourg in 1944, they made a strange capture: a machine capable of recording sound on magnetic tapes. Shortly after the war, this German military invention made its appearance in private homes. Tape recorders integrated listening and reproduction in one device, but as separate functions. That’s no longer the case with digital technology. Today, to use digital information is to copy it.
+
+Computers operate by copying. They couldn’t care less whether the physical distance between original and copy is measured in micrometers or in miles; both work equally well for them. Copyright law, on the other hand, must somehow draw a line between use and distribution. That means putting an imaginary grid over the chaotic myriad of network nodes, delineating clusters of devices that can be attributed to individuals or households.
+
+Whatever happens inside such a cluster is defined as private use, while any trespassing of these borders is potentially criminal. But what can this strict division between private and public mean to someone with 400 “friends” on Facebook? Another important consideration is that the digital is larger than the online. According to one recent study 95 percent of British youth engage in file sharing via burned CDs, instant messaging clients, mobile phones, USB sticks, e-mail, and portable hard drives. [5]
+
+Such practices constitute the “darknet,” a term popularized by four Microsoft-affiliated researchers in a brilliant 2002 paper.[6] Their thesis is simply that people who have information and want to exchange it with each other will do just that, forming spontaneous networks which may be large or small, online or offline. By being interconnected they can always keep the most popular material available. Attempts to curb open file-sharing infrastructure may only drive activity towards smaller and darker networks.
+
+One early darknet has been termed the “sneakernet”: walking by foot to your friend carrying video cassettes or floppy discs. Nor is the sneakernet purely a technology of the past. The capacity of portable storage devices is increasing exponentially, much faster than Internet bandwidth, according to a principle known as “Kryder’s Law.” [7] The information in our pockets yesterday was measured in megabytes, today in gigabytes, tomorrow in terabytes and in a few years probably in petabytes (an incredible amount of data). Within 10-15 years a cheap pocket-size media player will probably be able to store all recorded music that has ever been released — ready for direct copying to another person’s device.
+
+In other words: The sneakernet will come back if needed. “I believe this is a ‘wild card’ that most people in the music industry are not seeing at all,” writes Swedish filesharing researcher Daniel Johansson. “When music fans can say, ‘I have all the music from 1950-2010, do you want a copy?’ — what kind of business models will be viable in such a reality?” [8]
+
+We already have access to more film, music, text and images than we can possibly incorporate into our lives. Retreating from this paradigm of abundance to the old paradigm of scarcity is simply not an alternative. Adding more “content” will strictly speaking produce no value — whether culturally or economically. What’s valuable is supplying a context where people can come together to create meaning out of abundance.
+
+The digital world poses questions whose answers can’t remain within the digital sphere. A key challenge is to relate the digital to that which is not digital: time, space, human relationships, and so forth. Kevin Kelly, the founding executive editor of Wired magazine, has recently captured it well: When copies are superabundant, they become worthless, while things which can’t be copied become scarce and valuable. What counts in the end are “uncopyable values,” qualities which are “better than free.” [9]
+
+The file-sharing explosion beginning around the year 2000 marked not only the start of a falling trend in sales of recorded music, but also of a drastic rise in spending on live music experiences. Only ten years ago, live music was widely conceived of as merely a way to market recordings. Today that strange equation seems to have been turned on its head.
+
+Music is far from unique in demonstrating how the pendulum has swung. Kelly mentions how writers increasingly make their money from appearing in person, promoted by their books, which may well be available for free. The computer game industry has understood how to make big money not by selling software, but by selling access to online worlds.
+
+Businesses that adopted the copyright industry’s old formula of selling “content without context” are meeting harder times. “Intellectual property is the oil of the 21st century,” was once the motto of Mark Getty, the businessman who used his family’s oil fortune to invest in one of the world’s largest copyright portfolios, controlling more than 60 million images.” Getty Images saw its stock price fall steadily since its peak in 2004, before the company earlier this year was sold out to private equity.
+
+The failure of Getty Images can’t be blamed on piracy, but rather has to do with the spread of digital cameras. Editors increasingly tend to prefer on-the-spot pictures, regardless of image quality. Sitting on a large database of archived pictures becomes less relevant when newspapers want photography to produce a feeling of real-time presence — an uncopyable quality.
+
+Faced with these new realities, copyright industries may instead go on the offensive. First out on the battlefield were the record industry’s watchdogs, the Recording Industry Association of America and its international counterpart, the International Federation of the Phonographic Industry. Together, the RIAA and IFPI have set the industry’s lobbying agenda. Topping their wishlist is legislation requiring “carriers of digital content” to intervene in the use of communications services, or what they call “ISP responsibility.” [10] The ACTA might soon deliver them such legislation, which basically encompasses measures of two kinds.
+
+One is simply net censorship. In several European countries, the IFPI is already taking ISPs to court to make them block access to search engines like The Pirate Bay. The question arises: Which site would be next? That infringement hotbed called YouTube? Probably not, but such implicit threats are increasingly being used by copyright industries in their hunt for profitable but one-sided licensing deals.
+
+Yet more alarming, the very existence of an Internet blacklist will constantly tempt politicians to expand that list’s uses to all kinds of morally or politically inconvenient sites. Franco Frattini, the EU Justice Commissioner, is already pushing to censor online information about bombmaking. [11] Censorship, however, can be circumvented, as demonstrated in Denmark, where more people started using The Pirate Bay after a court-ordered block was implemented.
+
+As a second measure, the anti-piracy lobby demands authorization to order ISPs to disconnect users and to force ISPs to give out subscribers’ identities on request. Unfortunately, criticisms of such policies have hitherto been limited to concerns about the violation of privacy. While privacy is a valid concern, there are other reasons to mistrust this measure.
+
+Consider first that the Internet is not a network of people; it is a network of computers. Any node in a network is not necessarily an endpoint, but a potential opening to a sub-network. Firms and neighborhoods routinely install one fiber connection and share it via a router. Only their local network administrator can then trace online activities to an actual user. In other words, anonymity will remain a possibility.
+
+Yet in the name of ISP responsibility, virtually any Internet user might be called to account by the recording industry. Here’s why: In discussions about so-called ISP responsibility, it is crucial to remember that big telecom companies are far from the only existing “operators of electronic communications networks and services.” This is the actual definition of an ISP, used within the European Union bureaucracy, but by this definition, you may be one, too. The U.S. Digital Millennium Copyright Act is equally vague: It defines a “service provider” as a “provider of online services or network access, or the operator of facilities therefor,” leading many to wonder whether libraries, employers, or private individuals operating routers might also qualify as ISPs.
+
+Given such a broad definition, any company or person sharing connectivity, as well as anyone hosting a blog or a web forum, could, in the name of “ISP responsibility,” be obligated to register the identities of users and to deliver them to copyright enforcers on request. The range of possible abuses is enormous. Attempts to save an already broken policy will mean an ever more absurd sequence of follow-up regulations.
+
+Meanwhile, darknets will proliferate and demand for new anonymization techniques will remain high as a general side-effect of the hunt for small-scale copyright infringers. The most eager to take advantage of that situation will of course be the real criminals, including terrorists, while the legitimate Internet may grow fragmented and lose its open, freewheeling character.
+
+Copyright enforcement weakens general law enforcement. And it’s expensive. The proposed ACTA treaty would create international legislation turning border guards into copyright police, charged with checking laptops, iPods, and other devices for possibly infringing content, and given the authority to confiscate and destroy equipment without even requiring a complaint from a rights-holder.
+
+It’s characteristic of the dishonesty found in copyright law that the ACTA has been promoted as a treaty aimed to save people from dangerous fake medicine, which has very little to do with issues like “ISP responsibility.” While patents, trademarks, and copyright are significantly different in many respects, copyright industry lobbyists prefer to present their draconian enforcement strategies as a matter of “intellectual property” in general.
+
+The real dispute, once again, is not between proponents and opponents of copyright as a whole. It is between believers and non-believers. Believers in copyright keep dreaming about building a digital simulation of a 20th-century copyright economy, based on scarcity and with distinct limits between broadcasting and unit sales. I don’t believe such a stabilization will ever occur, but I fear that this vision of copyright utopia is triggering an escalation of technology regulations running out of control and ruining civil liberties. Accepting a laissez-faire attitude regarding software development and communication infrastructure can prevent such an escalation.
+
+Unauthorized sharing of files will prevail in darknets, online and offline. On the other hand, certain non-digital activities, like book publishing, continue to work relatively well under the terms of classical copyright law designed for printing presses. Still other fields, like software and music, are characterized by complex competition among different models, where some make money on selling copyable units, while others profit by delivering uncopyable services. A qualified guess is that we will have to live in this landscape of gray zones for quite a while, for good and bad.
+
+Creative practices, with some exceptions, thrive in economies where digital abundance is connected to scarce qualities in space and time. But there can never be a question of finding one universal business model for a world without copyright. The more urgent question regards what price we will have to pay for upholding the phantasm of universal copyright.
+
+Notes
+
+[1] IP Justice: Anti-Counterfeiting Trade Agreement (ACTA).
+
+ http://ipjustice.org/wp/campaigns/acta/ IP Justice: Anti-Counterfeiting Trade Agreement (ACTA)
+
+[2] IFPI: “Digital Music Report 2007″, p. 20.
+
+ http://www.ifpi.org/content/library/digital-music-report-2007.pdf IFPI: “Digital Music Report 2007″, p. 20
+
+[3] http://www.chilirec.com/
+
+ http://www.chilirec.com/
+
+[4] http://feinstein.senate.gov/06releases/r-dig-music.htm
+
+ http://feinstein.senate.gov/06releases/r-dig-music.htm
+
+[5] Katie Allen: “Home copying – burnt into teenage psyche.” The Guardian, April 7, 2008.
+
+ http://www.guardian.co.uk/technology/2008/apr/07/digitalmusic.drm Katie Allen: “Home copying – burnt into teenage psyche.” The Guardian, April 7, 2008
+
+[6] Peter Biddle, Paul England, Marcus Peinado und Bryan Willman: “The Darknet and the Future of Content Distribution.”
+
+ http://msl1.mit.edu/ESD10/docs/darknet5.pdf Peter Biddle, Paul England, Marcus Peinado und Bryan Willman: “The Darknet and the Future of Content Distribution
+
+[7] Chip Walter, “Kryder’s Law.” Scientific American, July, 2005.
+
+ http://www.sciam.com/article.cfm?id=kryders-law Chip Walter, “Kryder’s Law.” Scientific American, July, 2005
+
+[8] Daniel Johansson: “The Future of Private Copying.” Digital Renaissance, March 27th, 2008.
+
+ http://www.digitalrenaissance.se/2008/03/27/the-future-of-private-copying/ Daniel Johansson: “The Future of Private Copying.” Digital Renaissance, March 27th, 2008
+
+[9] Kevin Kelly, “Better than free.”
+
+ http://www.edge.org/3rd_culture/kelly08/kelly08_index.html Kevin Kelly, “Better than free
+
+[10] IFPI: “Digital Music Report 2008.”
+
+ http://www.ifpi.org/content/library/DMR2008.pdf IFPI: “Digital Music Report 2008
+
+[11] “Website bomb-making lessons to be outlawed across Europe” Times online, July 4, 2007.
+
+ http://www.timesonline.co.uk/tol/news/uk/crime/article2023030.ece “Website bomb-making lessons to be outlawed across Europe” Times online, July 4, 2007
+
+—
+
+Rasmus Fleischer is a co-founder of Piratbyrån, a Swedish anti-copyright organization.
+
+****
