@@ -1,8 +1,8 @@
 importOnly
 buildHtml
 // editBaseUrl edit.html?fileName=
-editBaseUrl https://github.com/breck7/copythis/edit/main/
-baseUrl https://copythis.breck.lol
+editBaseUrl https://github.com/breck7/pleasecopy/edit/main/
+baseUrl https://pleasecopy.breck.lol
 openGraphImage og.png
 favicon favicon.png
 theme roboto
