@@ -2,7 +2,7 @@ importOnly
 buildHtml
 buildTxt
 tags All
-editBaseUrl https://github.com/breck7/copythis/edit/main/
+editBaseUrl https://github.com/breck7/pleasecopy/edit/main/
 theme roboto
 favicon favicon.png
 metaTags
