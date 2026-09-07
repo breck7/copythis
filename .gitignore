@@ -4,6 +4,7 @@
 *.html
 *.rss
 *.txt
+*.zip
 .*.js
 .*.css
 feed.xml
