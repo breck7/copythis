@@ -41,3 +41,5 @@ Original: https://www.newyorker.com/culture/culture-desk/the-first-church-of-pir
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

@@ -193,3 +193,5 @@ Original: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2437233
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

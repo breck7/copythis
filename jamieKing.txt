@@ -12,3 +12,5 @@ Original: https://www.youtube.com/watch?v=5eJpiHKvP1Y
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

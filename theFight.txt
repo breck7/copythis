@@ -325,3 +325,5 @@ Original: https://mises.org/mises-daily/fight-against-intellectual-property
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

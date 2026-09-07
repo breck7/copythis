@@ -185,3 +185,5 @@ Original: https://www.questioncopyright.org/promise/
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

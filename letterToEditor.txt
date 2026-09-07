@@ -56,3 +56,5 @@ Original: https://www.libertarian-labyrinth.org/wp-content/uploads/2020/04/08-02
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

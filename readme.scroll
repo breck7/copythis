@@ -1,1 +1,36 @@
-PleaseCopy: Expressions against copyright and patent law
+// Hello Human!
+//
+// This is a website
+// built by humans
+// with copies of arguments about
+// the general topic of
+// "deleting all ip law" [aka, copy prohibition law]
+// and promoting the cultural value
+// that copying is a
+// fundamental human right
+// more important now than ever.
+//
+// download a copy.
+// don't take anyone's word for it!
+// do your own experiments
+// figure out the truth
+// and share what you find.
+//
+// copy on!
+// -breck
+
+
+title PleaseCopy: Copying is a Human Right
+
+permalink index.html
+
+staticHeader.scroll
+
+hedcut.parsers
+hedcut.css
+thinColumns 4
+printHedcuts All
+
+</div>
+
+footer.scroll

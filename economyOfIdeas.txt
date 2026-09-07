@@ -410,3 +410,5 @@ Original: https://groups.csail.mit.edu/mac/classes/6.805/articles/int-prop/barlo
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

@@ -416,3 +416,5 @@ Original: https://www.bu.edu/bulawreview/files/2019/12/LUNNEY.pdf
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

@@ -80,3 +80,5 @@ Original: https://engineuring.wordpress.com/2018/07/07/why-sci-hub-is-illegal-an
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

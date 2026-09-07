@@ -34,3 +34,5 @@ Original: https://en.wikipedia.org/wiki/Guerilla_Open_Access_Manifesto
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

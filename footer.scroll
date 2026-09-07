@@ -5,3 +5,9 @@ center
 ⇧
  link #
 br 2
+
+center
+<a href="pleasecopy.zip" download>Download this website</a>
+br
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>
+br 2

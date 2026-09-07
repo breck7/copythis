@@ -42,3 +42,5 @@ Original: https://locusmag.com/2011/11/cory-doctorow-its-time-to-stop-talking-ab
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

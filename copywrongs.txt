@@ -68,3 +68,5 @@ Original: https://archive.lewrockwell.com/orig11/konkin1.1.1.html
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

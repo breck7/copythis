@@ -112,3 +112,5 @@ Original: https://www.cato-unbound.org/2008/06/09/rasmus-fleischer/future-copyri
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

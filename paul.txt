@@ -286,3 +286,5 @@ Original: https://pdfernhout.net/open-letter-to-grantmakers-and-donors-on-copyri
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

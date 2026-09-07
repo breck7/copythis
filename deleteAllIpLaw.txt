@@ -28,3 +28,5 @@ Original: https://x.com/jack/status/1910829254214115681
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

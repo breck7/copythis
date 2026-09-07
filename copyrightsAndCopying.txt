@@ -257,3 +257,5 @@ Original: https://frame-poythress.org/copyrights-and-copying-why-the-laws-should
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

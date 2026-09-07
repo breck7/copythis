@@ -31,3 +31,5 @@ Original: https://c4sif.org/2009/02/there-are-no-good-arguments-for-intellectual
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

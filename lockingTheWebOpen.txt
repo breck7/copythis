@@ -223,3 +223,5 @@ Original: https://phe.rockefeller.edu/docs/kahleDigitalHeritage7.pdf
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

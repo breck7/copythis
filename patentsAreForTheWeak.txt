@@ -38,3 +38,5 @@ Original: https://www.cnbc.com/2022/09/21/why-elon-musk-says-patents-are-for-the
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

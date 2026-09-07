@@ -49,3 +49,5 @@ Original: https://www.wired.com/story/peter-sunde-evolution/
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

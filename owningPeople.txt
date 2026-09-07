@@ -37,3 +37,5 @@ Original: https://perma.cc/7LGU-XJLE
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>

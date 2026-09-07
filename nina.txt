@@ -29,3 +29,5 @@ Original: https://blog.ninapaley.com/2009/11/04/intellectual-property-is-slavery
 
 ⇧
  /# ⇧
+
+Or git clone: <code>git clone https://github.com/breck7/pleasecopy.git</code>
