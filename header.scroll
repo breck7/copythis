@@ -4,6 +4,7 @@ buildTxt
 tags All
 editBaseUrl https://github.com/breck7/pleasecopy/edit/main/
 theme roboto
+reading.css
 favicon favicon.png
 metaTags
 

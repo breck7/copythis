@@ -1,0 +1,86 @@
+/* Local, system-font typography shared by the index and reading pages. */
+:root {
+  --scrollPrimaryRgb: 48, 79, 100;
+  --scrollSurfaceRgb: 218, 213, 201;
+  --scrollTextBase: 43, 43, 39;
+  --scrollLinkBase: 48, 79, 100;
+  --scrollColorBackground: #faf8f2;
+  --scrollColorText: #2b2b27;
+  --scrollColorLink: #304f64;
+  --scrollColorSubdued: #68665e;
+  --scrollFontPrimary: Georgia, "Times New Roman", serif;
+  --scrollFontUi: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif;
+}
+
+body {
+  line-height: 1.55;
+}
+
+/* Keep the newspaper's existing column measure and breakpoints. */
+.scrollColumns {
+  font-family: var(--scrollFontUi);
+}
+
+h1.printTitleParser {
+  font-size: clamp(1.5rem, 2.3vw, 1.875rem);
+  line-height: 1.2;
+  letter-spacing: -0.025em;
+  text-wrap: balance;
+}
+
+h1.scrollParagraph {
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.scrollContainerParser p.scrollParagraph,
+.scrollContainerParser li {
+  font-size: 1.125rem;
+  line-height: 1.7;
+}
+
+.scrollContainerParser p.scrollParagraph {
+  margin-top: 0.85em;
+  overflow-wrap: break-word;
+}
+
+.printAuthorsParser,
+.printDateParser {
+  color: var(--scrollColorSubdued);
+  line-height: 1.5;
+}
+
+.printDateParser {
+  font-size: 0.875rem;
+}
+
+a {
+  text-underline-offset: 0.18em;
+  text-decoration-thickness: 1px;
+}
+
+.scrollContainerParser p.scrollParagraph a {
+  text-decoration-color: currentColor;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--scrollColorLink);
+  outline-offset: 4px;
+}
+
+::selection {
+  background: #dedac8;
+  color: #2b2b27;
+}
+
+@media (max-width: 600px) {
+  .scrollContainerParser p.scrollParagraph {
+    text-align: left;
+    hyphens: none;
+  }
+
+  .scrollContainerParser center p.scrollParagraph {
+    text-align: center;
+  }
+}
